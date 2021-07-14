@@ -28,7 +28,7 @@ export const GlobalStyle = createGlobalStyle`
       color: var(--white);
     }
 
-    h2 {
+    h3 {
       font-size: 1.1rem;
       font-weight: 600;
     }
@@ -38,4 +38,4 @@ export const GlobalStyle = createGlobalStyle`
       color: var(--white);
     }
   }
-`
+`;
